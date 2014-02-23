@@ -4,22 +4,22 @@
     "_comment": "This is a translation from the original English to Persian. For a better tranlsation meaning, 'privacy' was translated as 'government censorship'. Unfinished.",
     "_ind": 0,
 
-    "lf_title": "توكس",
+    "lf_title": "تكس",
     
     "nv_home": "صفحه نخست‬‬",
     "nv_about": "در باره",
     "nv_features": "امکانات",
     "nv_contribute": "همکاری و کمک کردن",
     
-    "sect1_slogan": ".پیام های امن برای همه",
-    "sect1_description": ".با افزایش برنامه های سانسور دولت، توكس برنامه هست که اجازه می دهد که شما را با دوستان و خانواده بدون سانسور تماس بگیرید",
+    "sect1_slogan": "پیام های محفوظ برای همه",
+    "sect1_description": ".با افزایش برنامه های سانسور و مانیتورینگ دولت، تكس برنامه ی هست که اجازه می دهد شما با دوستان و خانواده خود بدون گوشبرد تماس بگیرید",
     "sect1_learnmore": "بیشتر یاد بگیرید",
     "sect1_download": "دانلود",
     
     
-    "sect2_abouttox": "درباره توكس",
+    "sect2_abouttox": "درباره تكس",
     
-    "sect2_aboutbody": "\n .توكس با این ایده درست شود که شما می توانید با دوستان و خانواده صحبت بکنید بدون در حال جاسوسی از دولت",
+    "sect2_aboutbody": "\n .توكس با این ذهنیت درست شده که شما بتوانید با دوستان و خانواده خود بدون گوشبرد دولتی صحبت بکنید",
     
     
     "sect3_messages": "Some cool features",
